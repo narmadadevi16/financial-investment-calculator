@@ -1,1 +1,1 @@
-# financial-investment-calculator
+# Financial-Investment-Calculator
